@@ -15,6 +15,6 @@
 
          printf("\n Thanks for using our App.\n Press a Key to Exit.");
 
-         _getch();
+         getch();
          return 0;
  }
