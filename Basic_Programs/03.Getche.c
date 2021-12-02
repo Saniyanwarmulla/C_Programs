@@ -7,7 +7,7 @@ int main ()
         getche();
         putch(ch);
 
-        _getch ();
+        getch ();
         return 0;
 
 }
