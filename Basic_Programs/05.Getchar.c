@@ -20,6 +20,6 @@ int main()
              printf("\n\n Bye Bye... \n\n");
       }
 
-      getche();
+      _getche();
       return 0;
 }
