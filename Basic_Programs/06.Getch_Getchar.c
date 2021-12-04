@@ -7,7 +7,7 @@ int main()
 
             ch = getchar();
 
-            printf("\n Welcome To Fork Infosystems!!!\n ");
+            printf("\n Welcome To Fork Infosystems..!!!\n ");
 
             printf("\n Value of Given Character = %c",ch);
 
