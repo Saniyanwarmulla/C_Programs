@@ -12,7 +12,7 @@ int main()
             printf("\n Value of Given Character = %c",ch);
 
              getche();
-             _getch();
+             getch();
 
             return 0;
 }
