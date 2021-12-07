@@ -22,7 +22,7 @@ int main()
       printf("\n Size for Float in this environment = %d.",sizeof(float));
       printf("\n Size for Double in this environment = %d.", sizeof(double));
 
-      _getch();
+      getch();
       return 0;
 
 }
