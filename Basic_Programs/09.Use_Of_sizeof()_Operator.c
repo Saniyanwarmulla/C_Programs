@@ -13,7 +13,7 @@ int main()
       printf("\n Size for Character in this environment = %d.", sizeof(char));
 
 
-      printf("\n---------------------****-------------------------\n");
+      printf("\n--------------------****------------------------\n");
 
 
       printf("\n Size for Integer in this environment = %d.", sizeof(int));
