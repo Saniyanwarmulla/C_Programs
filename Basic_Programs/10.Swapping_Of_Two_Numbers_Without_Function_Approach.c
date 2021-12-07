@@ -16,6 +16,6 @@ int main()
 
        printf("\n After Swapping = 1st Number = %d.,2nd Number = %d.",No1,No2);
 
-       _getch();
+       getch();
        return 0;
 }
