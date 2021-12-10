@@ -3,7 +3,7 @@
 #include<stdio.h>
 #include<conio.h>
 int main ()
-{
+ {
           int Num1 = 0,Num2 = 0;
 
           printf("\n Enter Two Numbers for Swapping = ");
@@ -24,5 +24,4 @@ int main ()
           getch();
           return 0;
 
-
-}
+ }
