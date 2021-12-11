@@ -14,6 +14,6 @@ int main ()
 
        printf("\n\n\t Thanks...!!!");
 
-       _getch();
+       getch();
        return 0;
 }
