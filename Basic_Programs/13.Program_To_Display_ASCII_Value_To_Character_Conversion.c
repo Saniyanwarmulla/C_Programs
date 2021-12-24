@@ -7,7 +7,7 @@ int main()
 
          printf("\n ASCII To Character Conversion:");
 
-         printf("\n Enter ASCII Value To Get Its CorrespondIng Character= ");
+         printf("\n Enter ASCII Value To Get Its Corresponding Character= ");
          scanf("%d",&No);
 
          printf("\n\n Character for Given ASCII value %d is = |%c|.",No,No);
