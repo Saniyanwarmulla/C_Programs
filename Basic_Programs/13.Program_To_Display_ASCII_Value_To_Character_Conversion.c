@@ -13,7 +13,7 @@ int main()
          printf("\n\n Character for Given ASCII value %d is = |%c|.",No,No);
 
          printf("\n\n Thanks for using our service...");
-         getch();
+         _getch();
          return 0;
 
 }
