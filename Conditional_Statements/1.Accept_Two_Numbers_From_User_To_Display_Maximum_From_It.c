@@ -22,6 +22,6 @@ int main()
              }
 
              printf("\n Thanks..!!");
-             _getch();
+             getch();
              return 0;
     }
