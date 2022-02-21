@@ -14,7 +14,7 @@ int main()
               goto Grade;
          }
 
-         (No1 > No2)? printf("\n Number %d is Maximum.",No1) : printf("\n Number %d is Maximum.",No2);
+         (No1 > No2)? sprintf("\n Number %d is Maximum.",No1) :  printf("\n Number %d is Maximum.",No2);
 
          getch();
          return 0;
