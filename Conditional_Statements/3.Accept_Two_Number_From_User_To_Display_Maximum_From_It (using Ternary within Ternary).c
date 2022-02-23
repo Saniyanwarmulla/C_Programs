@@ -9,7 +9,7 @@ int main()
 
           (No1 == No2)? printf("\n Both Given Numbers are Equal.") : (No1 > No2)? printf("\n Number %d is Maximum",No1) : printf("\n Number %d is Maximum",No2);
 
-          getch();
+          _getch();
           return 0;
 
 }
